@@ -7,7 +7,6 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  dog_breeds = ["Boxer", "Jack Russell Terrier", "Golden Retriever", "Great Dane"]
   dog_breeds.push ("Poodle")
 end
 
